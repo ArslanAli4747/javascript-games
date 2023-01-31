@@ -1,0 +1,17 @@
+.main{
+    width: 140px;
+    height: 120px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.main div{
+    width: 20px;
+    height: 20px;
+}
+.p1{
+    background-color: blue;
+}
+.p2{
+    background-color: red;
+}

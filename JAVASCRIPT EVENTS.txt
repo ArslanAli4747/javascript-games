@@ -1,0 +1,124 @@
+JavaScript is a programming language and it can be used to create interactive and dynamic web pages. There are many events in JavaScript that can be used to create a wide range of interactions. Here is a list of some common JavaScript events:
+
+onload: triggers when the page has finished loading
+onunload: triggers when the user leaves the page
+onclick: triggers when an element is clicked
+onchange: triggers when the value of an element is changed
+onmouseover: triggers when the mouse pointer moves over an element
+onmouseout: triggers when the mouse pointer moves out of an element
+onkeydown: triggers when a keyboard key is pressed down
+onkeyup: triggers when a keyboard key is released
+onfocus: triggers when an element receives focus
+onblur: triggers when an element loses focus
+onsubmit: triggers when a form is submitted
+onreset: triggers when a form is reset
+onselect: triggers when an element's text is selected
+onchange: triggers when an element's value is changed
+onscroll: triggers when the user scrolls an element
+onresize: triggers when the size of the browser window is changed
+17
+
+
+
+Arslan Ali
+KEEP WRITING
+Sure, here are some more JavaScript events:
+17. oncontextmenu: triggers when the right mouse button is clicked
+
+onmousemove: triggers when the mouse pointer is moved
+onmouseenter: triggers when the mouse pointer enters an element
+onmouseleave: triggers when the mouse pointer leaves an element
+ontouchstart: triggers when a touch event starts
+ontouchmove: triggers when a touch event moves
+ontouchend: triggers when a touch event ends
+ontouchcancel: triggers when a touch event is cancelled
+onbeforeunload: triggers when the page is about to be unloaded
+onhashchange: triggers when the hash fragment of the URL changes
+onpageshow: triggers when a web page is loaded or reloaded
+onpagehide: triggers when a web page is hidden or unloaded
+onpopstate: triggers when the state of the current page changes
+onstorage: triggers when the storage area changes
+ononline: triggers when the browser goes online
+onoffline: triggers when the browser goes offline
+onmessage: triggers when a message is received
+onbeforeprint: triggers before the page is printed
+onafterprint: triggers after the page is printed
+Please note that these are just some examples of JavaScript events, there are many more events available, and new events are being added as new web standards and technologies are developed.
+You can use these events to create interactive and dynamic web pages, and you can refer to the official JavaScript documentation for more information on these and other events: https://developer.mozilla.org/en-US/docs/Web/API/Event
+Please let me know if there is anything else that I can assist you with.
+
+
+
+
+Arslan Ali
+CAN YOU PLEASE WRITE MORE ITS HARD TO READ FROM THE DOCUMENTATION
+I understand that it can be difficult to navigate through documentation sometimes. However, it is important to note that JavaScript is a vast programming language and it has many events that can be used in different situations. There are events for user interaction, form events, browser events, media events, and more.
+
+Here are some more examples of JavaScript events:
+
+oninput: triggers when the value of an input element changes
+oninvalid: triggers when an input element is invalid
+oncut: triggers when the user cuts content from an element
+oncopy: triggers when the user copies content from an element
+onpaste: triggers when the user pastes content into an element
+onplay: triggers when a media element starts playing
+onpause: triggers when a media element is paused
+onended: triggers when a media element has finished playing
+oncanplay: triggers when a media element can start playing, but may need to buffer
+onseeking: triggers when a media element is seeking a new position
+onseeked: triggers when a media element has
+
+Stop generating
+
+
+I understand that it can be difficult to navigate through documentation sometimes. However, it is important to note that JavaScript is a vast programming language and it has many events that can be used in different situations. There are events for user interaction, form events, browser events, media events, and more.
+
+Here are some more examples of JavaScript events:
+
+oninput: triggers when the value of an input element changes
+oninvalid: triggers when an input element is invalid
+oncut: triggers when the user cuts content from an element
+oncopy: triggers when the user copies content from an element
+onpaste: triggers when the user pastes content into an element
+onplay: triggers when a media element starts playing
+onpause: triggers when a media element is paused
+onended: triggers when a media element has finished playing
+oncanplay: triggers when a media element can start playing, but may need to buffer
+onseeking: triggers when a media element is seeking a new position
+onseeked: triggers when a media element has finished seeking a new position
+onratechange: triggers when the playback rate of a media element changes
+ondurationchange: triggers when the duration of a media element changes
+onvolumechange: triggers when the volume of a media element changes
+onloadstart: triggers when the browser starts to load a media element
+onprogress: triggers when the browser receives data for a media element
+onloadeddata: triggers when the browser receives the first frame of a media element
+onloadedmetadata: triggers when the browser receives metadata for a
+
+Yes, here are some more examples of JavaScript events:
+
+onloadstart: triggers when the browser starts loading a media element
+onprogress: triggers when the browser receives data for a media element
+onloadeddata: triggers when the browser receives the first frame of a media element
+onloadedmetadata: triggers when the browser receives metadata for a media element
+oncanplaythrough: triggers when a media element is able to play through without buffering
+onstalled: triggers when the browser is unable to fetch data for a media element
+onwaiting: triggers when a media element is waiting for data to continue playing
+onsuspend: triggers when the browser has loaded enough data for a media element to play through
+ontimeupdate: triggers when the current time of a media element changes
+onplaying: triggers when a media element starts playing
+onended: triggers when a media element has finished playing
+onemptied: triggers when a media element's network state changes to empty
+onencrypted: triggers when a media element encounters encrypted content
+onanimationstart: triggers when an animation starts
+onanimationend: triggers when an animation ends
+onanimationiteration: triggers when an animation repeats
+ontransitionend: triggers when a CSS transition ends.
+These are just some examples of the many events available in JavaScript. It's important to note that these events can be used in different situations, and the exact behavior of an event may differ depending on the type of element it is used on and the specific circumstances of its use.
+
+I recommend you to have a look at the official documentation of JavaScript, it will help you understand the events more clearly and provide you with more information and examples on how to use them: https://developer.mozilla.org/en-US/docs/Web/API/Event
+Please let me know if there is anything else that I can assist you with.
+
+
+
+
+
